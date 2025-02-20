@@ -1,0 +1,14 @@
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/bin/Debug/net8.0/ConnectThree
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/bin/Debug/net8.0/ConnectThree.deps.json
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/bin/Debug/net8.0/ConnectThree.runtimeconfig.json
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/bin/Debug/net8.0/ConnectThree.dll
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/bin/Debug/net8.0/ConnectThree.pdb
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.AssemblyInfoInputs.cache
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.AssemblyInfo.cs
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.csproj.CoreCompileInputs.cache
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.dll
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/refint/ConnectThree.dll
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.pdb
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ConnectThree.genruntimeconfig.cache
+/Users/baezej/Documents/GitHub/LoftenC-O2027/ConnectThree/obj/Debug/net8.0/ref/ConnectThree.dll
